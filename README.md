@@ -5,7 +5,7 @@
     <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Example README</h3>
+  <h3 align="center">ISM+D git tutorial</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -171,4 +171,4 @@ Project Link: [https://github.com/zacczakk/ismdtutorial](https://github.com/zacc
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: img/screenshot.png
