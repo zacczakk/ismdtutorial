@@ -9,5 +9,6 @@ Author: Philipp Rosendahl, rosendahl@2phi.de
 Date: 03/2021
 """
 
-printstring = 'Hello world.'
+printstring = 'Hello ISMD.'
 print(printstring)
+
