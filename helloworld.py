@@ -13,3 +13,6 @@ Date: 03/2021
 
 printstring = 'Hello world.'
 print(printstring)
+
+printstring = 'Bye world.'
+print(printstring)
