@@ -16,3 +16,6 @@ print(printstring)
 
 printstring = 'Bye world.'
 print(printstring)
+
+def wowSoCool():
+    print("lame")
