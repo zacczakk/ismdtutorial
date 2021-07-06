@@ -14,7 +14,7 @@ Date: 03/2021
 printstring = 'Hello world.'
 print(printstring)
 
-printstring = 'Bye world.'
+printstring = 'Good day sir.'
 print(printstring)
 
 def wowSoCool():
