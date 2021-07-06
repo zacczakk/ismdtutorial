@@ -26,3 +26,6 @@ print(printstring)
 
 def dummyfunc():
     print("I do nothign.")
+
+def wowSoCool():
+    print("lame")
