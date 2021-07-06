@@ -9,9 +9,9 @@ Author: Philipp Rosendahl, rosendahl@2phi.de
 Date: 03/2021
 """
 
-<<<<<<< HEAD
 printstring = 'Hello ISMD.'
 print(printstring)
+# but also add a comment up here.
 
 =======
 # Write a random comment
@@ -19,6 +19,10 @@ print(printstring)
 printstring = 'Hello world.'
 print(printstring)
 
+# Add a comment right here.
+
 printstring = 'Bye world.'
 print(printstring)
->>>>>>> main
+
+def dummyfunc():
+    print("I do nothign.")
