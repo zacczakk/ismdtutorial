@@ -9,10 +9,10 @@ Author: Philipp Rosendahl, rosendahl@2phi.de
 Date: 03/2021
 """
 
-printstring = 'Hello ISMD.'
-print(printstring)
+print('Hello ISMD.')
 # but also add a comment up here.
 
+# =======
 # Write a random comment
 # this is a text of Max 
 # hallo
