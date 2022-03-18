@@ -15,7 +15,7 @@ print(printstring)
 
 # Write a random comment
 # this is a text of Max 
-#hallo
+# hallo
 printstring = 'Hello world.'
 print(printstring)
 
@@ -29,3 +29,5 @@ def dummyfunc():
 
 def wowSoCool():
     print("lame")
+
+wowSoCool()
