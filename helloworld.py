@@ -17,5 +17,7 @@ print(printstring)
 printstring = 'Good day sir.'
 print(printstring)
 
-def wowSoCool():
-    print("lame")
+def wowSoCool(blah):
+    print(blah)
+
+wowSoCool(printstring)
