@@ -28,6 +28,11 @@ def dummyfunc():
     print("I do nothign.")
 
 def wowSoCool(blah):
+    """This is a print function
+
+    Args:
+        blah (string): pass the string you want to print
+    """    
     print(blah)
 
 printstring = 'Good day sir.'
