@@ -27,7 +27,8 @@ print(printstring)
 def dummyfunc():
     print("I do nothign.")
 
-def wowSoCool():
-    print("lame")
+def wowSoCool(blah):
+    print(blah)
 
-wowSoCool()
+printstring = 'Good day sir.'
+wowSoCool(printstring)
