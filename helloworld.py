@@ -9,12 +9,15 @@ Author: Philipp Rosendahl, rosendahl@2phi.de
 Date: 03/2021
 """
 
+import sys
+
+
 print('Hello ISMD.')
 # but also add a comment up here.
 
 # =======
 # Write a random comment
-# this is a text of Max 
+# this is a text of Max
 # hallo
 printstring = 'Hello world.'
 print(printstring)
@@ -25,15 +28,19 @@ printstring = 'Bye world.'
 print(printstring)
 
 def dummyfunc():
+    """This does nothign.
+    """
     print("I do nothign.")
 
-def wowSoCool(blah):
-    """This is a print function
+def wowsocool(blah):
+    """This is a print function.
 
     Args:
         blah (string): pass the string you want to print
-    """    
+    """
     print(blah)
 
 printstring = 'Good day madame.'
-wowSoCool(printstring)
+wowsocool(printstring)
+
+print(sys.executable)
