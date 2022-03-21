@@ -35,5 +35,5 @@ def wowSoCool(blah):
     """    
     print(blah)
 
-printstring = 'Good day sir.'
+printstring = 'Good day madame.'
 wowSoCool(printstring)
