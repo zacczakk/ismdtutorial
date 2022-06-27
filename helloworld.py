@@ -17,8 +17,7 @@ print('Hello ISMD.')
 
 # =======
 # Write a random comment
-# this is a text of Max
-# hallo
+# random comment
 printstring = 'Hello world.'
 print(printstring)
 
